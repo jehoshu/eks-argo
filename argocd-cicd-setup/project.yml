@@ -12,7 +12,7 @@ spec:
       prune: true
       selfHeal: true
   # Project description
-  description: Learning CICD
+  description: Demo CICD
   # Allow manifests to deploy from any Git repos
   sourceRepos:
   - '*'
